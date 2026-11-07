@@ -17,10 +17,8 @@
 ### Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,solidity,react,fastapi,mongodb,firebase,tensorflow,opencv,docker,git" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,solidity,tensorflow,opencv,fastapi,docker" alt="Languages and tools" />
 </p>
-
-Also: Ethereum, Hardhat, Truffle, WebSockets, Twilio
 
 ### Projects:
 
